@@ -1,0 +1,73 @@
+.catch{
+    background-color: black;
+    color: white;
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+.restau{
+   display: grid;
+   place-items: center;
+   margin: 0 auto;
+   margin-top: 20px;
+   width: 70%;
+   padding: 11px;
+  }
+.res{
+    margin-top: 20px;
+    padding: 10px 30px;
+}
+.ges{
+    padding: 5px 5px;
+}
+.label{
+    position: relative;
+    left: -70px;
+    top: 20px
+}
+.flex{
+    margin: 10px;
+}
+.head{
+    width: 70%;
+    margin: 0 auto;
+}
+.table{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.table thead{
+    background-color: orange;
+}
+.table tbody{
+    background-color: rgba(0, 0, 0, 0.438);
+  
+}
+.table tbody td{
+    color: white;
+}
+.btn{
+    background-color: yellow;
+    position : relative;
+    left: 110px;
+}
+.btn1{
+    border-radius: 8px;
+    background-color: lightcyan;
+    position : relative;
+    left: 110px;
+    padding: 6px;
+    width: 70px;
+}
+.body{
+    background-color: black;
+    width: 70%;
+    margin: 0 auto;
+    color: white;
+}
+.ride{
+    position: relative;
+    left:-130px;
+    top: 10px;
+}

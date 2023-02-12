@@ -1,0 +1,9 @@
+let name = "yash";
+let object = {
+    name: "yash",
+    age: 21,
+    last: (function(){
+        console.warn(${name});
+    });
+}
+object.email = "yashsaini@gmail.com";

@@ -1,0 +1,31 @@
+.catch{
+    background-color: black;
+    color: white;
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+.restau{
+   display: grid;
+   place-items: center;
+   margin: 10px;
+  
+  
+   
+    
+}
+.res{
+    margin-top: 20px;
+    padding: 10px 30px;
+}
+.ges{
+    padding: 5px 5px;
+}
+.label{
+    position: relative;
+    left: -70px;
+    top: 20px
+}
+.flex{
+    margin: 10px;
+}
